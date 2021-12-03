@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @karry-li-lego
+- 👀 I’m interested in alcohol
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on sth
+- 📫 How to reach me: karry.li@lego.com
